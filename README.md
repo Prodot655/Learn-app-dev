@@ -1,17 +1,28 @@
-# learn
+# Learn App Development 🚀
 
-A new Flutter project.
+A collection of Flutter & Dart code examples created during my app development learning journey.
 
-## Getting Started
+Every concept is explained through code and comments, making it easier to understand how things work in real projects.
 
-This project is a starting point for a Flutter application.
+## What You'll Find
 
-A few resources to get you started if this is your first Flutter project:
+- Dart Basics
+- Variables & Data Types
+- Functions
+- OOP Concepts
+- Flutter Widgets
+- UI Design Practice
+- Navigation
+- State Management
+- Firebase Integration
+- Mini Projects
+- Real Code Experiments
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Goal
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This repository is not a tutorial.
+
+It is a collection of code examples, experiments, and notes written while learning Flutter and Dart. The focus is on understanding concepts by reading and exploring code.
+
+## Topics
+`flutter` `dart` `flutter-learning` `dart-learning` `app-development` `mobile-development` `flutter-beginner` `firebase` `flutter-examples` `learning-by-doing`
